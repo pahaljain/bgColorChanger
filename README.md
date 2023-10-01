@@ -1,8 +1,12 @@
-# React + Vite
+#[bgColorChanger](https://bg-color-changer-sandy.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A background color changer app using React
 
-Currently, two official plugins are available:
+### React APP
+basic react app for practising concepts and improved , effective & clean code.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Concepts used
+- basic css
+- used useState hook
+- props and components
+
