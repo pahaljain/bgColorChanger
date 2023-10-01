@@ -1,4 +1,4 @@
-#[bgColorChanger](https://bg-color-changer-sandy.vercel.app/)
+# [bgColorChanger](https://bg-color-changer-sandy.vercel.app/)
 
 A background color changer app using React
 
